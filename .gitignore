@@ -1,0 +1,22 @@
+# API Keys & Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# IDE
+.idea/
+.vscode/
+
+# ChromaDB & Runtime Data
+chroma_db/
+memory/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude
+.claude/
